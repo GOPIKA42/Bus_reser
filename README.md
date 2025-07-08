@@ -1,0 +1,1 @@
+The Bus Rental System is a standalone desktop-based application designed to streamline the process of renting buses for personal or commercial use. Developed using Java, it utilizes JDBC (Java Database Connectivity) to interact with a MySQL database for data storage and retrieval.
